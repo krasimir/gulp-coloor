@@ -1,6 +1,6 @@
 # gulp-coloor
 
-Gulp plugin for [Coloor](https://github.com/krasimir/coloor) syntax.
+Gulp plugin for [Coloor](https://github.com/krasimir/coloor) image preloading utility.
 
 ## Installation
 
